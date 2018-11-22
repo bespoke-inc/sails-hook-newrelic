@@ -31,11 +31,11 @@
     "sails"
   ],
   "dependencies": {
-    "newrelic": "^1.40.0"
+    "newrelic": "^4.11.0"
   },
   "devDependencies": {
     "mocha": "*",
-    "sails": "~0.11.0",
+    "sails": "~0.12.13",
     "should": "*"
   },
   "engines": {
